@@ -1,4 +1,4 @@
-![alt text](https://github.com/jahfals/Portofolio/tree/main/images?raw=true)
+![alt text](?raw=true)
 Thank you for using our template!
 
 For more awesome templates please visit https://colorlib.com/wp/templates/

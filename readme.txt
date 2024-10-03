@@ -1,4 +1,4 @@
-![alt text](?raw=true)
+![alt text](https://github.com/jahfals/Portofolio/blob/main/images/HOBBY.jpg?raw=true)
 Thank you for using our template!
 
 For more awesome templates please visit https://colorlib.com/wp/templates/
